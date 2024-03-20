@@ -6,7 +6,7 @@
 
 ---
 
-![Сертификат об успешной защите курса](https://assets.htmlacademy.ru/certificates/intensive/553/2088903.pdf)
+[Сертификат об успешной защите курса](https://assets.htmlacademy.ru/certificates/intensive/553/2088903.pdf)
 
 ---
 
