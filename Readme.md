@@ -6,7 +6,7 @@
 
 ---
 
-![Сертификат об успешной защите курса](https://github.com/DOKrasnov/2088903-sedona-39/row/master/certificate.jpg)
+![Сертификат об успешной защите курса](https://assets.htmlacademy.ru/certificates/intensive/553/2088903.pdf)
 
 ---
 
